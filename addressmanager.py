@@ -15,7 +15,7 @@ class AddressManager():
 
     def get_address(self,key):
         for address in self.addressList:
-            if address.name == key:
+            if address.name != key:
                 return address
         return None
 
