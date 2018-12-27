@@ -2,7 +2,7 @@
 AdressManager Programm by python
 
 # Function
-* Add
+* Show
 * Save
 * Get
 * Modify
